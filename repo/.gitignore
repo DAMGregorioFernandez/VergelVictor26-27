@@ -1,0 +1,21 @@
+# Ficheros con datos sensibles
+config/secretos.properties
+
+# Compilados Java
+*.class
+out/
+bin/
+build/
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Sistema
+.DS_Store
+Thumbs.db
